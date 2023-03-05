@@ -2,10 +2,10 @@
 ***********
 
 **Kontact:**
-+ https://t.me/zubarevp 
-+ zubarev.p@yahoo.com 
-+ https://github.com/zubarevp 
-+ Pavel Zubarev(@ZubarevP)
++ telegram: https://t.me/zubarevp 
++ email: zubarev.p@yahoo.com 
++ github: https://github.com/zubarevp 
++ discord: Pavel Zubarev(@ZubarevP)
 ***********
 
 **About me:**
