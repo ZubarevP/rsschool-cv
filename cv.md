@@ -6,13 +6,12 @@
 + zubarev.p@yahoo.com 
 + https://github.com/zubarevp 
 + Pavel Zubarev(@ZubarevP)
-
-====
+***********
 
 **About me:**
 
 I am a junior Front-End developer. I am looking forward to working in teams as well as individually. I am not only willing to deepen my knowledge but I also want to apply them to the real products.
-====
+***********
 
 **Technical skills:**
 + JavaScript, 
@@ -34,16 +33,14 @@ I am a junior Front-End developer. I am looking forward to working in teams as w
 + mongoDB, 
 + mongoose, 
 + express.js
-
-====
+***********
 
 **Soft skills:**
 + Effective communication, 
 + Strong problem solver, 
 + Good time management, 
 + Systems thinking
-
-====
+***********
 
 **Code example:**
 ```
@@ -65,8 +62,7 @@ function getCard() {
   ];
 }
 ```
-
-====
+***********
 
 **Education:**
 - 2022 - JavaScript / Front-end School (The Rolling Scopes School)
@@ -74,21 +70,19 @@ function getCard() {
 - 2022 - C++ development basics: red belt (Yandex)
 - 2021 - C++ development basics: yellow belt (Yandex)
 - 2021 - C++ development basics: white belt (Yandex)
-
-====
+***********
 
 **Projects:**
 * [MOMENTUM](https://rolling-scopes-school.github.io/zubarevp-JSFEPRESCHOOL2022Q2/momentum/) (HTML, CSS, JavaScript)
 
-* [ELDRITCH HORROR](https://zubarevp.github.io/codejam-eldritch/codejam-eldritch/) [code->](https://github.com/ZubarevP/codejam-eldritch/tree/horror) (HTML, CSS, JavaScript)
+* [ELDRITCH HORROR](https://zubarevp.github.io/codejam-eldritch/codejam-eldritch/) (HTML, CSS, JavaScript) [code->](https://github.com/ZubarevP/codejam-eldritch/tree/horror)
 
-* [FIRST CV](https://zubarevp.github.io/cv/) [code->](https://github.com/ZubarevP/cv) (HTML, CSS, JavaScript)
+* [FIRST CV](https://zubarevp.github.io/cv/) (HTML, CSS, JavaScript) [code->](https://github.com/ZubarevP/cv)
 
-* [TODO LIST](https://deft-mermaid-1e3d67.netlify.app) [code->](https://github.com/ZubarevP/ToDoList) (Vue 3, Pinia, HTML, CSS, SCSS, JavaScript)
+* [TODO LIST](https://deft-mermaid-1e3d67.netlify.app) (Vue 3, Pinia, HTML, CSS, SCSS, JavaScript) [code->](https://github.com/ZubarevP/ToDoList) 
 
 * [TRAVEL PORTAL](https://rolling-scopes-school.github.io/zubarevp-JSFEPRESCHOOL2022Q2/travel/) (HTML, CSS, JavaScript)
-
-====
+***********
 
 **Languages:**
 + english - A2
